@@ -13,8 +13,8 @@
 - "Accept" = "application/json"
 - "Content-Type" = "application/json"
 
-### Тело запроса (Body) - Пример JSON
-Запрос включает следующее JSON-тело:
+### Тело запроса (Body)
+Пример JSON:
 ```json
 {
   "name": "Leia Organa",
