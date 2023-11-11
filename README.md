@@ -8,6 +8,9 @@
 - URL: https://gorest.co.in/public-api/users
 - Метод: POST
 
+### Авторизационный токен (Auth)
+- Сгенерировать авторизационный Bearer токен на https://gorest.co.in/access-token (доступно после успешного входа на сайт)
+
 ### Заголовки запроса (Headers)
 Запрос включает следующие заголовки:
 - "Accept" = "application/json"
