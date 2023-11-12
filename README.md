@@ -28,6 +28,7 @@
 ```
 
 ## Решение
-- [Позитивные и негативные тест-кейсы](https://docs.google.com/spreadsheets/d/13BgfOf58U0-u0-TV6TCn1evDrUusYYFX6AELCjqTC30/edit?usp=sharing) для Gorest API с оформленными [баг-репортами](https://drive.google.com/drive/folders/12JQXfSMpree_d_z3hQ-zJgXxy1MSBpMd?usp=drive_link)
+- [Позитивные и негативные тест-кейсы](https://docs.google.com/spreadsheets/d/13BgfOf58U0-u0-TV6TCn1evDrUusYYFX6AELCjqTC30/edit?usp=sharing)
+- [Баг-репорты](https://drive.google.com/drive/folders/12JQXfSMpree_d_z3hQ-zJgXxy1MSBpMd?usp=drive_link)
 - [Коллекция в Postman](https://www.postman.com/speeding-astronaut-865015/workspace/public-gorest/collection/28194799-dff9d752-7c0b-41f1-a3db-6191cb54f395?action=share&creator=28194799)
 
